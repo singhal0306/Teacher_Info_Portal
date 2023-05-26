@@ -7,3 +7,10 @@ It is a web app basically designed to use CRUD operation
 ![image](https://github.com/singhal0306/Teacher_Info_Portal/assets/86726484/d9867871-7275-4f47-95f7-f7fcea17c56f)
 
 Steps to have the app running on your local server
+* Fork and clone the repository.
+* Open Terminal in the cloned directory.
+* hit npm init
+* Now change your username and password in connect.db module.
+* Now you can run the Teacher portal on your machine.
+* After completing the above steps, run npm start in the terminal. 
+* After that write localhost:5000 on the browser and you are good to go to use app.
